@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AliyahChen
+- 👀 I’m interested in being a front end developer
+- 🌱 I’m currently learning HTML, CSS, Javascrept, Vue
