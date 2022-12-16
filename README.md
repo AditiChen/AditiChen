@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @AditiChen, a self taught programmer.
-- 👀 I want to be a front end developer.
-- 🌱 I’m currently learning HTML, CSS, Javascrept, Vue and React.
+- 👋 Hi, I’m Aditi, a Front-End developer.
+- 🌱 Familiar with HTML, CSS, Javascrept, React, Styled-components, TypeScript,etc.
+- 🌱 Keep exploring new knowledges and skills.
+- 🌱 Willing to face new challenges and endeavor to deal with conflicts and solve problems.
